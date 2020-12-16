@@ -54,8 +54,8 @@ You can make the following things when you combine a road with other materials:
 Balloons are used to make entertainment-related buildings. You can make the following things:
 
 * Movie theater = balloons + coin
-* Track field = balloons + road
-* Skater park = balloons + balloons
+* Stadium = balloons + road
+* Skate park = balloons + balloons
 * Swimming pool = balloons + water
 
 ## LEAF
@@ -76,7 +76,7 @@ Water can be combined with other materials to create the following items:
 * Over-water railroad = water + road + electricity
 * Bridge = 3 × over-water road (water + road)
 * Railroad bridge = 3 × over-water railroad (water + road + electricity)
-* Fishing dock = water + balloons
+* Fishing pier = water + balloons
 * Oil platform = water + electricity
 
 ## COIN
