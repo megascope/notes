@@ -24,9 +24,12 @@ cd kernel
 export KCONFIG_CONFIG=Microsoft/config-wsl
 
 make menuconfig
-# enable usb mass storage support CONFIG_USB_STORAGE
-# device drivers -> USB Support -> USB Mass Storage
+# enable usb mass storage support in config-wsl CONFIG_USB_STORAGE=y
+# device drivers -> USB Support -> USB Mass Storage = *
 # and save file
+
+# generate directories
+make prepare
 ```
 
 ## Setup ZFS
