@@ -1,13 +1,13 @@
 # Windows
-* [App Store Bloatware](removing_windows_store_bloatware.html)
-* [WSL2 Custom Kernel](wsl-kernel.html)
+* [App Store Bloatware](removing_windows_store_bloatware.md)
+* [WSL2 Custom Kernel](wsl-kernel.md)
 
 # iOS
-* [Hoopa City 2](hoopacity2.html)
+* [Hoopa City 2](hoopacity2.md)
 
 # Linux
-* [EdgeOS](EdgeOS.html)
-* [Nethogs](nethogs.html)
-* [Recording Audio](linux_recording.html)
+* [EdgeOS](EdgeOS.md)
+* [Nethogs](nethogs.md)
+* [Recording Audio](linux_recording.md)
 
 Edit using [editor on GitHub](https://github.com/megascope/notes/blob/master/index.md).
