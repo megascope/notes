@@ -7,7 +7,7 @@
 
 # Linux
 * [EdgeOS](EdgeOS.html)
-* [Nethogs](nethogs.md)
-* [Recording Audio](linux_recording.md)
+* [Nethogs](nethogs.html)
+* [Recording Audio](linux_recording.html)
 
-Edit using [editor on GitHub](https://github.com/megascope/notes/edit/gh-pages/index.md).
+Edit using [editor on GitHub](https://github.com/megascope/notes/blob/master/index.md).

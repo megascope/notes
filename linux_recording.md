@@ -1,4 +1,4 @@
-Recording What You Here
+Recording What You Hear
 
 Linux using pulseaudio 
 
