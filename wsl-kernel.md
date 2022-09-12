@@ -61,10 +61,11 @@ make modules
 ```shell
 mkdir /mnt/c/wslkernels
 cp arch/x86/boot/bzImage /mnt/c/wslkernels/my_custom_kernel
-```shell
+```
 
 ## Create WSL kernel Config
 _Note this is on the Windows host_
+
 Edit `%USERHOME%\.wslconfig` to target new kernel, example (must include double slashes):
 ```ini
 [wsl2]
