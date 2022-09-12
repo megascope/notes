@@ -1,6 +1,7 @@
 # Windows
 * [App Store Bloatware](removing_windows_store_bloatware.md)
 * [WSL2 Custom Kernel](wsl-kernel.md)
+* [Windows ICS](windows_ics.md)
 
 # iOS
 * [Hoopa City 2](hoopacity2.md)

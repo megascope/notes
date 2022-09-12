@@ -1,7 +1,7 @@
 # Build ZFS and USB support into WSL
 
 ## Install build deps
-```
+```shell
 apt install -yqq build-essential autoconf automake libtool gawk alien fakeroot dkms libblkid-dev \
 uuid-dev libudev-dev libssl-dev libncurses-devel \
 zlib1g-dev libaio-dev libattr1-dev libelf-dev python3 \
@@ -17,7 +17,7 @@ Extract into `zfs` and `kernel` folders
 
 ## Setup kernel
 
-```
+```shell
 cd kernel
 
 # setup kconfig
@@ -33,7 +33,7 @@ make prepare
 ```
 
 ## Setup ZFS
-```
+```shell
 cd ../zfs
 sh autogen.sh
 
@@ -46,33 +46,33 @@ sh autogen.sh
 ```
 
 ## Add zfs support
-```
+```shell
 cd ../kernel
 echo "CONFIG_ZFS=y" >> $KCONFIG_CONFIG
 ```
 
 ## Build Kernel and Modules
-```
+```shell
 make
 make modules
 ```
 
 ## Copy image file to WINDOWS
-```
+```shell
 mkdir /mnt/c/wslkernels
 cp arch/x86/boot/bzImage /mnt/c/wslkernels/my_custom_kernel
-```
+```shell
 
 ## Create WSL kernel Config
 _Note this is on the Windows host_
 Edit `%USERHOME%\.wslconfig` to target new kernel, example (must include double slashes):
-```
+```ini
 [wsl2]
 kernel=C:\\wslkernels\\my_custom_kernel
 ```
 
 Then shutdown existing WSL sessions and restart
-```
+```shell
 wsl --shutdown
 wsl --list -v # check if wsl session has been shut down
 bash
@@ -80,7 +80,7 @@ bash
 
 ## Copy modules
 Back inside new WSL session with custom kernel, install module dependencies
-```
+```shell
 cd kernel
 sudo module_install
 ```

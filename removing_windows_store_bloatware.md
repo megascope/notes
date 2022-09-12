@@ -5,7 +5,7 @@ A new Windows 10 install includes a lot of random store bloatware. This guide sh
 ## Powershell commands
 Start powershell as administrator
 
-```
+```shell
 # List packages
 Get-AppxPackage -AllUsers | Select Name
 
