@@ -171,5 +171,6 @@ systemctl start homeseer
 The UI should now be available at `http://ADDRESS_OF_CONTAINER/`
 
 # References
-* https://github.com/HomeSeerLinux/homeseerlinux.github.io
-* https://deviant.engineer/2016/11/lxc-passthrough/
+* [HomeSeerLinux](https://github.com/HomeSeerLinux/homeseerlinux.github.io)
+* [LXC Passthrough](https://deviant.engineer/2016/11/lxc-passthrough/)
+* [Homeseer Forums](https://forums.homeseer.com/forum/homeseer-products-services/system-software-controllers/hs4-hs4pro-software/1415987-installing-hs4-on-linux?view=thread)
