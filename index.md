@@ -6,6 +6,9 @@
 # iOS
 * [Hoopa City 2](hoopacity2.md)
 
+# macOS
+* [Zerotier](zerotier.md)
+
 # Linux
 * [EdgeOS](EdgeOS.md)
 * [Nethogs](nethogs.md)
