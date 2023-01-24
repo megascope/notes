@@ -26,7 +26,7 @@ Accept=yes
 WantedBy=sockets.target
 ```
 
-`/etc/systemd/system/xvnc@.service` ->
+`/lib/systemd/system/xvnc@.service` ->
 
 ```
 [Unit]
