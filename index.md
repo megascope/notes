@@ -10,6 +10,7 @@
 * [Zerotier](zerotier.md)
 
 # Linux
+* [Debian Upgrades](debian_upgrades.md)
 * [EdgeOS](EdgeOS.md)
 * [Nethogs](nethogs.md)
 * [Recording Audio](linux_recording.md)
