@@ -30,7 +30,7 @@ Hospital | ❤️❤️🎓 | heart + heart + graduation cap
 Library | ❤️🎓 | heart + graduation cap
 Skyscraper | ❤️❤️+🪙<br/>❤️❤️ | 4 hearts in a 2×2 grid + coin
 Police station | ❤️❤️❤️ | heart + heart + heart
-Museum |  ❤️🎓❤️🎓</br>❤️🎓❤️🎓 | 4 libraries (heart + graduation cap) in a 2×2 grid
+Museum |  ❤️🎓❤️🎓<br/>❤️🎓❤️🎓 | 4 libraries (heart + graduation cap) in a 2×2 grid
 
 ## GRADUATION CAP
 On its own, a graduation cap makes a Dr. Panda statue. When combined with other materials, a graduation cap makes the following things:
