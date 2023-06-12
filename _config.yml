@@ -1,3 +1,7 @@
 remote_theme: megascope/moonwalk
 plugins:
-- jekyll-remote-theme 
+- jekyll-remote-theme
+
+theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance_toggle: true # if appearance can be switched by user
