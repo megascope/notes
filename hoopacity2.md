@@ -2,31 +2,35 @@
 
 Lots of options on this game by Dr Panda, but it can be a pain to figure what you need to build each structure. 
 
-* Heart: builds a house
-* Graduation cap: builds a Dr. Panda statue
-* Road: builds a road
-* Balloons: build a playground
-* Leaf: builds a patch of flowers
-* Water: builds a puddle of water
-* Coin: builds a cafe
-* Electricity: builds a wind turbine
+Icon | Item | Description
+-- | -- | --
+❤️ | Heart | builds a house
+🎓 | Graduation cap | builds a Dr. Panda statue
+🛣️ | Road | builds a road
+🎈 | Balloons | build a playground
+☘️ | Leaf | builds a patch of flowers
+💧 | Water | builds a puddle of water
+🪙 | Coin | builds a cafe
+⚡️ | Electricity | builds a wind turbine
 
 The shovel on the far left is used to remove items and buildings from the land.
 
 When combining materials,  keep in mind that the sequence matters. For example, heart plus coin makes a bank, but coin plus heart doesn't yield anything.
 
-## HEART
+## ❤️ HEART
 On its own, a heart makes a house. But when combined with other elements, a heart can make the following things:
 
-* Apartment building = 4 hearts in a 2×2 grid
-* Bank = heart + coin
-* City hall = heart + heart
-* Fire station = heart + heart + water
-* Hospital = heart + heart + graduation cap
-* Library = heart + graduation cap
-* Skyscraper = 4 hearts in a 2×2 grid + coin
-* Police station = heart + heart + heart
-* Museum = 4 libraries (heart + graduation cap) in a 2×2 grid
+building | Icons | Description
+--- | --- | ---
+Apartment Building | ❤️❤️<br/>❤️❤️ | 4 hearts in 2x2 grid |
+| Bank | ❤️🪙 | heart + coin |
+| City hall | ❤️❤️ | heart + heart
+| Fire station |  ❤️💧 | heart + heart + water
+| Hospital | ❤️❤️🎓 | heart + heart + graduation cap
+| Library | ❤️🎓 | heart + graduation cap
+| Skyscraper | ❤️❤️+🪙<br/>❤️❤️ | 4 hearts in a 2×2 grid + coin
+| Police station | ❤️❤️❤️ | heart + heart + heart
+| Museum |  ❤️🎓❤️🎓</br>❤️🎓❤️🎓 | 4 libraries (heart + graduation cap) in a 2×2 grid
 
 ## GRADUATION CAP
 On its own, a graduation cap makes a Dr. Panda statue. When combined with other materials, a graduation cap makes the following things:
