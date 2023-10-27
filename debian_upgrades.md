@@ -17,7 +17,7 @@ apt full-upgrade
 apt --purge autoremove
 ```
 
-# Bullseye (11) to Bookwork (12)
+# Bullseye (11) to Bookworm (12)
 ```
 # upgrade everything
 apt update
