@@ -28,31 +28,34 @@ City hall | ❤️❤️ | heart + heart
 Fire station |  ❤️💧 | heart + heart + water
 Hospital | ❤️❤️🎓 | heart + heart + graduation cap
 Library | ❤️🎓 | heart + graduation cap
-Skyscraper | ❤️❤️+🪙<br/>❤️❤️ | 4 hearts in a 2×2 grid + coin
+Skyscraper | ❤️.❤️+🪙<br/>❤️.❤️ | 4 hearts in a 2×2 grid + coin
 Police station | ❤️❤️❤️ | heart + heart + heart
-Museum |  ❤️🎓❤️🎓<br/>❤️🎓❤️🎓 | 4 libraries (heart + graduation cap) in a 2×2 grid
+Museum |  ❤️🎓.❤️🎓<br/>❤️🎓.❤️🎓 | 4 libraries (heart + graduation cap) in a 2×2 grid
 
 ## GRADUATION CAP
 On its own, a graduation cap makes a Dr. Panda statue. When combined with other materials, a graduation cap makes the following things:
 
-* Fountain = graduation cap + water
-* School = graduation cap + heart
-* Music school = graduation cap + balloons
-* College = graduation cap + heart + graduation cap
-* University = 4 colleges (graduation cap + heart + graduation cap) in a 2×2 grid
-* Observatory = graduation cap + graduation cap
+building | Icons | Description
+--- | --- | ---
+Fountain | 🎓💧 | graduation cap + water
+School | 🎓❤️ | graduation cap + heart
+Music school | 🎓🎈 | graduation cap + balloons
+College |  🎓❤️🎓 | graduation cap + heart + graduation cap
+University | 🎓❤️🎓.🎓❤️🎓<br/>🎓❤️🎓.🎓❤️🎓 | 4 colleges (graduation cap + heart + graduation cap) in a 2×2 grid
+Observatory | 🎓🎓 | graduation cap + graduation cap
 
 ## ROAD
 You can make the following things when you combine a road with other materials:
-
-* Airport = 6 roads in a 3×2 grid + coin
-* Bus stop = road + heart
-* Avenue = road + leaf
-* Railroad = road + electricity
-* Train crossing = road + electricity + road
-* Underwater railroad tunnel = road + electricity + water
-* Train station = road + electricity + heart
-* Underwater tunnel = road + water
+building | Icons | Description
+--- | --- | ---
+Airport |  🛣️.🛣️.🛣️<br/>🛣️.🛣️.🛣️ | 6 roads in a 3×2 grid + coin
+Bus stop | 🛣️❤️ | road + heart
+Avenue | 🛣️☘️ | road + leaf
+Railroad | 🛣️⚡️ | road + electricity
+Train crossing | 🛣️⚡️🛣️ | road + electricity + road
+Underwater railroad tunnel | 🛣️⚡️💧 | road + electricity + water
+Train station | 🛣️⚡️❤️ | road + electricity + heart
+Underwater tunnel | 🛣️💧 | road + water
 
 ## BALLOONS
 Balloons are used to make entertainment-related buildings. You can make the following things:
