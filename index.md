@@ -1,4 +1,5 @@
 # Windows
+* [Windows Registry](registry/index.md)
 * [App Store Bloatware](removing_windows_store_bloatware.md)
 * [WSL2 Custom Kernel](wsl-kernel.md)
 * [Windows ICS](windows_ics.md)
