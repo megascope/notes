@@ -19,5 +19,6 @@
 * [Homeseer in LXC](homeseer_lxc.md)
 * [FFMPEG Cheatsheet](ffmpeg.md)
 * [Docker/Containers](docker.md)
+* [Firewall](linux_firewall.md)
 
 Edit using [editor on GitHub](https://github.com/megascope/notes/blob/master/index.md).
