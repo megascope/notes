@@ -54,7 +54,8 @@ apt-mark showhold
 ```
 
 ### Configure packages
-* you may need to add `contrib` and `non-free` to `debian.sources`.
+You may need to add `contrib` and `non-free` to `debian.sources`.
+
 ```
 # check and backup old sources list format
 cp /etc/apt/sources.list /etc/apt/sources.list.bookworm
