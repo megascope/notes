@@ -43,7 +43,6 @@ From https://www.debian.org/releases/trixie/release-notes/upgrading.en.html
 apt list '?obsolete'
 apt purge '?obsolete'
 
-
 # remove dead config files
 apt list '?config-files'
 apt purge '?config-files'
